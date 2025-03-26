@@ -1,0 +1,43 @@
+{
+    "uni_modules": {
+        "encrypt": [
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-care/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-comment/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-count/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-like/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-post/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-user/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-check/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-read/index.js",
+            "uni_modules/star-community-pages/uniCloud/cloudfunctions/star-community-circle/index.js"
+        ],
+	"extends" : 
+	{
+		"sn" : "Bs/4dKRL6DFZdSyeqbXYONswUhuCh16HgyZfCb0TssJDxMrn1mM7UZIwWXOaytS4YZpaPOGxxBrVPqoL4eJequmspCIprHWAcqGnQERIlCDxWUBWf2L90/EqB1e1YMrv5xdSWsPDtq0AgO2CWVG08tlF4pDL8+V27mAxS+BhXUhdeVcfTzQkfjb9lIyWWpXth/JStSr1miw0UsF1zADGwgamAl7Ftm1ZocKW4idzNMxPpuXUPnI2RUIqPRuGNtl26LEIMDo5izY8Vo58IXOsL2opzq6GBAU8+dS2zh6+W/J/t7+noCQ8KD/fDbtAcq5WkigBIdsiL9aukEvoXuo3cwos6EmduZF9USCVkYsLfdp9GhW5SCUH+7MQDFB7F8GxxgWoTR3wYA40QxOY2QD1jjXE4fPcnYYW9orJmUarKhotDQ1bX2Mkcc2Wf3pbYE+9pD/eeEwRhsMrG9eyzbWAGOOt124meZAT37d+n1iSGqk="
+	}
+    },
+    "dependencies": [],
+    "id": "star-community-unicloud",
+    "name": "星之链社区(社交论坛资讯)-unicloud版（插件大赛三等奖）",
+    "displayName": "星之链社区(社交论坛资讯)-unicloud版（插件大赛三等奖）",
+    "version": "3.8.5",
+    "description": "让你的项目无缝接入社区/社交论坛资讯功能，组件高可复用，全端兼容，一键部署，开箱即用",
+    "keywords": [
+        "社区",
+        "论坛",
+        "咨询",
+        "帖子",
+        "评论"
+    ],
+    "dcloudext": {
+        "type": "projecttemplate",
+        "sale": {
+            "regular": {
+                "price": "98.00"
+            },
+            "sourcecode": {
+                "price": "99.00"
+            }
+        }
+    }
+}
